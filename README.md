@@ -15,13 +15,13 @@ VSCode
 Git
 Browser
  # Setup
-Create a directory in Github. 
-Clone the directory to local repository and make it available locally.
-From the main branch,create a branch eg:  file-creation branch  to create the necessary files required for the project which will be merged to the main branch. These Files include index.html and style.css
-Then create-linter-files branch  to create the linter files. Then later will be merged to the main branch.
-Open VSCode, choose open folder and open the directory that was cloned from Github.
+<p>Create a directory in Github.<br>
+Clone the directory to local repository and make it available locally.<br>
+From the main branch,create a branch eg:  file-creation branch  to create the necessary files required for the project which will be merged to the main branch. These Files include index.html and style.css.<br>
+Then create-linter-files branch  to create the linter files. Then later will be merged to the main branch.<br>
+Open VSCode, choose open folder and open the directory that was cloned from Github.<br>
 Open the index.html and populate it with boiler plate code and a h1 element with the text Hello Microverse and assign a class to it of name header
-Link the stylesheet to index.html.
+Link the stylesheet to index.html.<br>
 Open the style.css and add the style properties to the h1 element.
 
 # Run Tests
