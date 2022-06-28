@@ -35,7 +35,14 @@ David Kasilia Mwanzia
 # Contributing
 Contributions, issues, and feature request are welcome anytime.
 
+# Show your support
+Give a Like or a Star if you like this project.
+
 # Acknowledgements
 Microverse
+
+# Links
+<a href="https://github.com/David-Kasilia/Hello-Microverse-Project/pull/8">
+
 
 
