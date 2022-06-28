@@ -1,5 +1,8 @@
 # Hello-Microverse-Project
-Day 2 Week 1 Project Of Setting Up "Hello Mivroverse" With HTML And CSS Project
+Day 2 Week 1 Project Of Setting Up "Hello Mivroverse" With HTML And CSS Project.
+
+## My First Official Microverse Repository
+<img src="hello-microverse.png">
 
 # Built with
 <ul>
@@ -25,4 +28,15 @@ Link the stylesheet to index.html.<br>
 Open the style.css and add the style properties to the h1 element.
 
 # Run Tests
-Run the index.html on your preferred browser or use a live server
+Run the index.html on your preferred browser or use a live server.
+
+# Authors
+David Kasilia Mwanzia
+
+# Contributing
+Contributions, issues, and feature request are welcome anytime.
+
+# Acknowledgements
+Microverse
+
+
