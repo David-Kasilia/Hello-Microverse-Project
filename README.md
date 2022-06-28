@@ -1,6 +1,10 @@
 # Hello-Microverse-Project
 Day 2 Week 1 Project Of Setting Up "Hello Mivroverse" With HTML And CSS Project.
 
+# My First Official Microverse Project in the curriculum
+![alt text]("https://github.com/David-Kasilia/Hello-Microverse-Project/blob/initialize-project/hello-microverse.PNG")
+
+This is the first project in the Microverse curriculum. It includes using HTML and CSS to display the words "Hello Microverse!"
 
 
 # Built with
@@ -31,6 +35,10 @@ Run the index.html on your preferred browser or use a live server.
 
 # Authors
 David Kasilia Mwanzia
+
+Github <a href="https://github.com/David-Kasilia">Link To Github Profile</a>
+Linkedin  <a href="https://www.linkedin.com/in/david-kasilia-846241211/">Link To Linkedin Profile</a>
+Twitter  <a href="https://twitter.com/DavidKasilia">Link To Twitter Profile</a>
 
 # Contributing
 Contributions, issues, and feature request are welcome anytime.
